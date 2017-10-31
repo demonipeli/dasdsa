@@ -8,3 +8,4 @@ main()
 			printf("%d \n", i);
 getch ();
 }
+das
